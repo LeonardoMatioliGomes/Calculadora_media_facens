@@ -47,7 +47,7 @@ int main() {
 //soma das notas
     double soma = (ac1 + ac2 + af + ag);
 
-interface do usuario para falar se foi aprovado ou reprovado
+//interface do usuario para falar se foi aprovado ou reprovado
     cout << "A sua média do semestre foi: " << soma << endl << endl;
 
 //caso sua nota foi de 5 para cima
